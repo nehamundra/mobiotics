@@ -1,0 +1,75 @@
+{
+    "products": [
+        {
+            "id":1,
+            "brandName": "MilkFood",
+            "ProductName": "MilkFood Rich Desi Danedar Ghee (carton)",
+            "quantity": "1L",
+            "price": "Rs 295",
+            "MRP": "MRP 370",
+            "imageURL": "./images/ghee1.jpg",
+            "offerText": "7% OFF"
+        },
+        {
+            "id":2,
+            "brandName": "Amul",
+            "ProductName": "Amul Pure Ghee",
+            "quantity": "1L",
+            "price": "Rs 475",
+            "MRP": "MRP 590",
+            "imageURL": "./images/ghee2.jpg",
+            "offerText": "3% OFF"
+        },
+        {
+            "id":3,
+            "brandName": "Patanjali",
+            "ProductName": "Patanjali Pure Ghee",
+            "quantity": "1L",
+            "price": "Rs 241",
+            "MRP": "MRP 341",
+            "imageURL": "./images/ghee3.jpg",
+            "offerText": "7% OFF"
+        },
+        {
+            "id":4,
+            "brandName": "Siri",
+            "ProductName": "Siri Pure Ghee",
+            "quantity": "1L",
+            "price": "Rs 475",
+            "MRP": "MRP 590",
+            "imageURL": "./images/ghee4.jpg",
+            "offerText": "3% OFF"
+        },
+        {
+            "id":5,
+            "brandName": "Krishna",
+            "ProductName": "Krishna Pure Ghee",
+            "quantity": "1L",
+            "price": "Rs 897",
+            "MRP": "MRP 1008",
+            "imageURL": "./images/ghee5.jpg",
+            "offerText": "8% OFF"
+        },
+        {
+            "id":6,
+            "brandName": "Avadh",
+            "ProductName": "Avadh Pure Ghee",
+            "quantity": "1L",
+            "price": "Rs 475",
+            "MRP": "MRP 590",
+            "imageURL": "./images/ghee6.jpg",
+            "offerText": "10% OFF"
+        },
+        {
+            "id":7,
+            "brandName": "Govardhan",
+            "ProductName": "Govardhan Pure Ghee",
+            "quantity": "1L",
+            "price": "Rs 475",
+            "MRP": "MRP 590",
+            "imageURL": "./images/ghee7.jpg",
+            "offerText": "9% OFF"
+        }
+    ]
+    
+}
