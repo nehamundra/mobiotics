@@ -1,0 +1,55 @@
+.row{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:100%
+}
+
+
+.col1{
+    display:flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex:2;
+}
+
+.imgPad{
+    padding: 1em;
+    text-align: center;
+}
+
+.col2{
+    display:flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex:7;
+}
+
+.brand{
+    font-size: 20px;
+    margin:0px !important;
+    font-weight: 500;
+    color: rgba(13, 105, 20, 0.8)
+}
+
+.cartButton {
+    background-color: rgba(13, 105, 20, 0.8);
+    outline: none;
+    cursor: pointer;
+    border: 1px solid rgba(170, 201, 173, 0.8);
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 1em;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 2px rgba(13, 105, 20, 0.8);
+}
+
+.counter{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.roundbtn{
+    border-radius: 50%;
+}
